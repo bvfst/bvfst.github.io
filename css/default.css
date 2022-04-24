@@ -598,11 +598,6 @@ input[type="checkbox"] { display: inline; }
    margin: 0 auto;
 }
 
-.date {
-	float: right;
-	text-align: right;
-}
-
 /* fixed width for IE8 */
 .ie .row { width: 1000px ; }
 
