@@ -332,7 +332,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: python 2s ease;
 }
 .machine-learning {
-  	width: 60%;
+  	width: 75%;
   	-moz-animation: machine-learning 2s ease;
   	-webkit-animation: machine-learning 2s ease;
 }
